@@ -141,3 +141,6 @@ __bash_prompt
 export PROMPT_DIRTRIM=4
 export NVS_HOME="$HOME/.nvs"
 [ -s "$NVS_HOME/nvs.sh" ] && . "$NVS_HOME/nvs.sh"
+
+# enable Node.js version switching
+nvs auto on
