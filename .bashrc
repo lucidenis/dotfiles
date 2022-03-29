@@ -144,3 +144,4 @@ export NVS_HOME="$HOME/.nvs"
 
 # enable Node.js version switching
 nvs auto on
+cd .
